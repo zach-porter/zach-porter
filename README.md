@@ -34,8 +34,8 @@ I'm currently pursuing a Master's in Social Data Science at University College D
 - [Strength of Weak Ties Analysis](https://github.com/zach-porter/Writtings/blob/main/Strength%20of%20Weak%20Ties%20Analyzed%20Zach%20Porter.pdf)
 - Analysis of the theory and its role in literature.
 
-**Research Essay and Python Code on Social Simulation**
-*Agent Based Modeling*
+**Research Essay on Social Simulations and Python Code**  
+*Agent Based Modelling*
 - Essay for can be found [Agent Based Model of a Networked Weighted Balanced Theory](https://github.com/zach-porter/Writtings/blob/main/Networked%20Weighted%20Balanced%20Theory.pdf)
 - Code for [Agent Based Model of a Networked Weighted Balanced Theory](https://github.com/zach-porter/ABM-Networked-Weighted-Balance-Theory)
 - Extended Schweighofer and Garcia’s Weighted Balance Opinion Model.
