@@ -28,11 +28,11 @@ I'm currently pursuing a Master's in Social Data Science at University College D
 *Organizational Sociology*  
 - A case study of a Decentralized Autonomous Organization using a mixed-method approach.
 
-**Research Paper on Network Theory**  
+**Research Essay on Network Theory**  
 *Strength of Weak Ties Revisited*  
 - Analysis of the theory and its role in future literature.
 
-**Research Paper and Python Code on Social Simulation**  
+**Research Essay and Python Code on Social Simulation**  
 - Extended Schweighofer and Garcia’s Weighted Balance Opinion Model.
 
 
