@@ -26,13 +26,17 @@ I'm currently pursuing a Master's in Social Data Science at University College D
 ## Selected Research Work
 **Dissertation: Does the Proposal Matter?**  
 *Organizational Sociology*  
+-[Does the Proposal Matter](https://github.com/zach-porter/Writtings/blob/main/MSc%20CSC%20Zachary%20Porter_%20Research%20Dissertation.pdf)
 - A case study of a Decentralized Autonomous Organization using a mixed-method approach.
 
 **Research Essay on Network Theory**  
-*Strength of Weak Ties Revisited*  
-- Analysis of the theory and its role in future literature.
+*Social Network Theory
+- [Strength of Weak Ties Analysis](https://github.com/zach-porter/Writtings/blob/main/Strength%20of%20Weak%20Ties%20Analyzed%20Zach%20Porter.pdf)
+- Analysis of the theory and its role in literature.
 
 **Research Essay and Python Code on Social Simulation**  
+- Essay for can be found [here](https://github.com/zach-porter/Writtings/blob/main/Networked%20Weighted%20Balanced%20Theory.pdf)
+- Code for [Agent Based Model of a Networked Weighted Balanced Theory](https://github.com/zach-porter/ABM-Networked-Weighted-Balance-Theory)
 - Extended Schweighofer and Garcia’s Weighted Balance Opinion Model.
 
 
