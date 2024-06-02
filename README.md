@@ -36,8 +36,8 @@ I'm currently pursuing a Master's in Social Data Science at University College D
 
 **Research Essay on Social Simulations and Python Code**  
 *Agent Based Modelling*
-- Essay for can be found [Agent Based Model of a Networked Weighted Balanced Theory](https://github.com/zach-porter/Writtings/blob/main/Networked%20Weighted%20Balanced%20Theory.pdf)
-- Code for [Agent Based Model of a Networked Weighted Balanced Theory](https://github.com/zach-porter/ABM-Networked-Weighted-Balance-Theory)
+- Essay for [Agent Based Model of a Networked Weighted Balanced Theory](https://github.com/zach-porter/Writtings/blob/main/Networked%20Weighted%20Balanced%20Theory.pdf)
+- Code for the above essay can be found here: [Agent Based Model of a Networked Weighted Balanced Theory](https://github.com/zach-porter/ABM-Networked-Weighted-Balance-Theory)
 - Extended Schweighofer and Garcia’s Weighted Balance Opinion Model.
 
 
