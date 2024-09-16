@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## About Me
-I'm currently pursuing a Master's in Social Data Science at University College Dublin, where I focus on social simulation, sociological analysis, and computational social science. With a strong foundation in both qualitative and quantitative methods, I aim to bridge the gap between technology and sociology to understand and influence social dynamics.
+I recently fineshed a Master's in Social Data Science at University College Dublin, where I focused on social simulation, sociological analysis, and computational social science. With a strong foundation in both qualitative and quantitative methods, I aim to bridge the gap between technology and sociology to understand and influence social dynamics. I will try to use notebooks for basic scripts and for those not as familiar with python. Even for some of my more advanced simulations, such as Agent-based Models, I will try to add notebooks as well as the py files, so that it might be easier for reproducing and for those of all skill levels when it comes to coding.
 
 ## Education
 **University College Dublin**  
@@ -21,7 +21,7 @@ I'm currently pursuing a Master's in Social Data Science at University College D
 ## Skills
 **Languages**: Python, R, Netlogo  
 **Tools**: Gephi, Discourse Network Analyzer, Excel, R Studio  
-**Soft Skills**: Public Speaking, Communication, Sociological Analysis  
+**Soft Skills**: Public Speaking, Communication, Creativity, Problem Solving, Teammwork, Critical Thinking, Adaptability
 
 ## Selected Research Work
 **Dissertation: Does the Proposal Matter?**  
